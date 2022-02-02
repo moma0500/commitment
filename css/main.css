@@ -147,6 +147,11 @@ p {
   margin-top: -12px;
 }
 
+#contact {
+  padding-top: 15px;
+  text-align: center;
+}
+
 
 a:link {
   color: black;
