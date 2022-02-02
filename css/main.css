@@ -141,10 +141,7 @@ a:hover {
 }
 
 #photoGrid {
-  display: flex;
-  flex-flow: wrap;
-  width: 150px;
-  height: 300px;
+
 }
 
 #blogSubtitle {
