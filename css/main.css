@@ -1,3 +1,13 @@
 body {
   background-color: #fff973;
 }
+
+#portal_header {
+  text-align: center;
+}
+
+button {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+}
