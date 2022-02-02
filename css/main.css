@@ -82,11 +82,13 @@ a:hover {
   text-shadow: none;
 }
 
-/* div content */
+/* section content */
 #blogContent {}
 
-
-.blogContent {}
+/* div content */
+.blogContent {
+  display: flex;
+}
 
 #blogText {
   font-family: Roboto Mono;
