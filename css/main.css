@@ -114,6 +114,7 @@ a:hover {
 
 #blogText {
   font-family: Roboto Mono;
+  padding-top: 10px;
 }
 
 #labMath {
@@ -123,6 +124,8 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   width: 70%;
+  border: 4px double black;
+
 }
 
 #blogSubtitle {
