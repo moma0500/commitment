@@ -5,6 +5,7 @@
   }
 
   #aboutMe {
+    padding-top: 20px;
     margin-left: 50px;
     margin-right: 50px;
   }
@@ -30,6 +31,12 @@
     padding: 8px;
     background-color: #fff973;
     border: 3px solid black;
+  }
+
+  #aboutMe {
+    padding-top: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
   }
 }
 
