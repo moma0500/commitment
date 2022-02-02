@@ -109,14 +109,7 @@ a:hover {
 
 #blogSubtitle {
   font-size: 25px;
-  /* text-decoration: underline;
+  text-decoration: underline;
   text-decoration-style: wavy;
-  padding-bottom: 3px; */
-
-  border-bottom: 1px;
-  padding-bottom: 3px;
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-
-
+  text-underline-position: right;
 }
