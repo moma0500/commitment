@@ -115,9 +115,9 @@ a:hover {
   padding-top: 10px;
 }
 
-.photoCaptionBorder {
+/* .photoCaptionBorder {
   border: 2px solid black;
-}
+} */
 
 #photoCaptionTop {
   font-family: Roboto Mono;
@@ -145,7 +145,7 @@ a:hover {
 
 #photoGrid {
   width: 650px;
-  height: 500px;
+  height: 480px;
   margin: auto auto;
 }
 
