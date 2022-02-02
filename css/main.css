@@ -106,3 +106,8 @@ a:hover {
   margin-right: auto;
   width: 70%;
 }
+
+#blogSubtitle {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
