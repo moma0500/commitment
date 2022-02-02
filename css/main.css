@@ -32,7 +32,6 @@ body {
   background-color: #fff973;
 }
 
-
 h2 {
   font-size: 40px;
   font-weight: 1000;
@@ -44,10 +43,9 @@ h3 {
   font-family: Roboto Mono;
 }
 
-p{
+p {
   font-size: 18px;
 }
-
 
 #portal_header {
   text-align: center;
@@ -140,7 +138,13 @@ a:hover {
   margin-right: auto;
   width: 70%;
   border: 15px solid black;
+}
 
+#photoGrid {
+  display: flex;
+  flex-flow: wrap;
+  width: 150px;
+  height: 300px;
 }
 
 #blogSubtitle {
