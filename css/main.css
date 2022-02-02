@@ -81,6 +81,16 @@ p {
   border: 3px solid black;
 }
 
+#form_button:hover {
+  font-family: Roboto Mono;
+  background-color: #fff973;
+  width: 250px;
+  height: 100px;
+  text-align: center;
+  margin: auto;
+  border: 10px solid black;
+}
+
 #object_button {
   font-family: Roboto Mono;
   background-color: #fff973;
@@ -89,6 +99,7 @@ p {
   text-align: center;
   margin: auto;
   border: 3px solid black;
+  text-shadow: 30px;
 }
 
 #object_button:hover {
