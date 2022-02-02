@@ -1,3 +1,17 @@
+@media screen and (min-width: 900px) {
+  .blog_body {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+
+@media screen and (min-width: 901px) {
+  .blog_body {
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+}
+
 body {
   background-color: #fff973;
 }
@@ -70,9 +84,4 @@ a:hover {
 
 #blog_text {
   font-family: Roboto Mono;
-}
-
-.blog_body {
-  margin-left: 250px;
-  margin-right: 250px;
 }
