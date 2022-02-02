@@ -108,6 +108,8 @@ a:hover {
 }
 
 #blogSubtitle {
+  font-size: 25px;
   text-decoration: underline;
   text-decoration-style: wavy;
+  padding-bottom: 3px;
 }
