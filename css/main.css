@@ -17,6 +17,15 @@
     background-color: #fff973;
     border: 3px solid black;
   }
+
+  #headshot {
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: 15px solid black;
+  }
 }
 
 @media screen and (min-width: 901px) {
@@ -38,6 +47,15 @@
     margin-left: 300px;
     margin-right: 250px;
     text-align: center;
+  }
+
+  #headshot {
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border: 15px solid black;
   }
 }
 
@@ -220,13 +238,4 @@ a:hover {
 
 #meDescription {
 font-size: 15px;
-}
-
-#headshot {
-  margin-top: 30px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-  border: 15px solid black;
 }
