@@ -4,6 +4,11 @@
     margin-right: 50px;
   }
 
+  #aboutMe {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
   #backButton {
     margin-left: 10px;
     margin-top: 10px;
@@ -45,6 +50,7 @@ h3 {
 
 p {
   font-size: 18px;
+  font-family: Roboto Mono;
 }
 
 #button_portal {
@@ -202,4 +208,8 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+#meDescription {
+font-size: 15px;
 }
