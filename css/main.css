@@ -32,7 +32,10 @@ h3 {
 }
 
 #backButton {
-
+  margin-left: 100px;
+  margin-top: 50px;
+  background-color: #fff973;
+  border: 3px solid black;
 }
 
 #portal_header {
