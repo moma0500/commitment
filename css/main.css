@@ -122,6 +122,7 @@ a:hover {
 #photoCaptionTop {
   font-family: Roboto Mono;
   text-align: center;
+
 }
 
 #photoCaption {
@@ -141,8 +142,8 @@ a:hover {
 }
 
 #photoGrid {
-  width: 600px;
-  height: 600px;
+  width: 650px;
+  height: 500px;
   margin: 0 auto;
 }
 
