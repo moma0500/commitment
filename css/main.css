@@ -133,6 +133,7 @@ a:hover {
   font-size: 14px;
 }
 
+
 #photoCaption {
   font-family: Roboto Mono;
   margin-top: -15px;
@@ -164,7 +165,7 @@ a:hover {
 
 #photoGridSecond {
   width: 650px;
-  height: 480px;
+  height: 230px;
   margin: auto auto;
 }
 
@@ -172,4 +173,12 @@ a:hover {
   float: center;
   width: 45%;
   margin: 1.8%;
+}
+
+#enclosureThree {
+  width:200px;
+  margin: auto;
+  float: center;
+  
+
 }
