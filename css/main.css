@@ -35,8 +35,9 @@
 
   #aboutMe {
     padding-top: 20px;
-    margin-left: 250px;
+    margin-left: 300px;
     margin-right: 250px;
+    text-align: center;
   }
 }
 
