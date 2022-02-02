@@ -141,8 +141,17 @@ a:hover {
 }
 
 #photoGrid {
-
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
 }
+
+#photoGrid>img {
+  float: left;
+  width: 45%;
+  margin: 1.8%;
+}
+
 
 #blogSubtitle {
   font-size: 25px;
