@@ -117,6 +117,10 @@ a:hover {
   padding-top: 10px;
 }
 
+.photoCaptionBorder {
+  border: 2px solid black;
+}
+
 #photoCaptionTop {
   font-family: Roboto Mono;
   text-align: center;
