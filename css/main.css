@@ -69,5 +69,10 @@ a:hover {
 }
 
 #blog_text {
-  
+  font-family: Roboto Mono;
+}
+
+.blog_body {
+  margin-left: 250px;
+  margin-right: 250px;
 }
