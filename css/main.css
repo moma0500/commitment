@@ -32,9 +32,6 @@ body {
   background-color: #fff973;
 }
 
-p{
-  font-size: 20px;
-}
 
 h2 {
   font-size: 40px;
@@ -45,6 +42,10 @@ h2 {
 h3 {
   font-size: 20px;
   font-family: Roboto Mono;
+}
+
+p{
+  font-size: 18px;
 }
 
 
