@@ -5,10 +5,12 @@ body {
 h2 {
   font-size: 40px;
   font-weight: bolder;
+  font-family: Roboto Mono;
 }
 
 h3 {
   font-size: 20px;
+  font-family: Roboto Mono;
 }
 
 #portal_header {
@@ -64,4 +66,8 @@ a:hover {
   text-decoration-color: #FFCE34;
   text-decoration-style: double;
   text-shadow: none;
+}
+
+#blog_text {
+  
 }
