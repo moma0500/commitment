@@ -1,12 +1,12 @@
 @media screen and (min-width: 900px) {
-  .blog_body {
+  .blogBody {
     margin-left: 50px;
     margin-right: 50px;
   }
 }
 
 @media screen and (min-width: 901px) {
-  .blog_body {
+  .blogBody {
     margin-left: 250px;
     margin-right: 250px;
   }
@@ -82,10 +82,17 @@ a:hover {
   text-shadow: none;
 }
 
-#blog_text {
+/* div content */
+#blogContent {}
+
+
+.blogContent {}
+
+#blogText {
   font-family: Roboto Mono;
 }
 
-.writeup{
-  
+#labMath {
+  width: 600px;
+  text-align: center;
 }
