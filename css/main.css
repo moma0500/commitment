@@ -14,6 +14,14 @@
 
 body {
   background-color: #fff973;
+  opacity: 0.2;
+  background-image: radial-gradient( ellipse farthest-corner at 10px 10px , #000000, #000000 50%, #fff973 50%);
+  background-size: 50px 3px;
+
+}
+
+p{
+  font-size: 20px;
 }
 
 h2 {
