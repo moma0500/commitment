@@ -176,9 +176,9 @@ a:hover {
 }
 
 #enclosureThree {
-  width:200px;
-  margin: auto;
-  float: center;
-  
-
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
