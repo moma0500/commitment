@@ -6,7 +6,13 @@ body {
   text-align: center;
 }
 
-button {
+#form_button {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+}
+
+#object_button {
   background-color: green;
   width: 100px;
   height: 100px;
