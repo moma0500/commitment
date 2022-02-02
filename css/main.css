@@ -4,6 +4,7 @@ body {
 
 #portal_header {
   text-align: center;
+  font-family: Roboto Mono;
 }
 
 #button_portal {
@@ -19,6 +20,7 @@ body {
 #form {}
 
 #form_button {
+  font-family: Roboto Mono;
   background-color: #fff973;
   width: 250px;
   height: 100px;
@@ -26,6 +28,7 @@ body {
 }
 
 #object_button {
+  font-family: Roboto Mono;
   background-color: #fff973;
   width: 250px;
   height: 100px;
